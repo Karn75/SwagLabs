@@ -1,0 +1,64 @@
+[2026-05-11 17:07:10] [main] INFO  testCases.BaseClass - url is opened
+[2026-05-11 17:07:11] [main] INFO  testCases.BaseClass - username entered
+[2026-05-11 17:07:11] [main] INFO  testCases.BaseClass - password entered
+[2026-05-11 17:07:11] [main] INFO  testCases.BaseClass - login test passed
+[2026-05-12 14:48:23] [main] INFO  testCases.BaseClass - url is opened
+[2026-05-12 14:48:23] [main] INFO  testCases.BaseClass - username entered
+[2026-05-12 14:48:23] [main] INFO  testCases.BaseClass - password entered
+[2026-05-12 14:48:24] [main] INFO  testCases.BaseClass - login test passed
+[2026-05-12 15:18:55] [main] INFO  testCases.BaseClass - url is opened
+[2026-05-12 15:18:56] [main] INFO  testCases.BaseClass - username entered
+[2026-05-12 15:18:58] [main] INFO  testCases.BaseClass - password entered
+[2026-05-12 15:20:49] [main] INFO  testCases.BaseClass - url is opened
+[2026-05-12 15:20:49] [main] INFO  testCases.BaseClass - username entered
+[2026-05-12 15:20:49] [main] INFO  testCases.BaseClass - password entered
+[2026-05-12 15:20:50] [main] INFO  testCases.BaseClass - login test passed
+[2026-05-12 17:26:40] [main] INFO  testCases.BaseClass - url is opened
+[2026-05-12 17:26:43] [main] INFO  testCases.BaseClass - username entered
+[2026-05-12 17:26:44] [main] INFO  testCases.BaseClass - password entered
+[2026-05-12 17:26:46] [main] INFO  testCases.BaseClass - login test passed
+[2026-05-12 17:32:41] [main] INFO  testCases.BaseClass - url is opened
+[2026-05-12 17:32:44] [main] INFO  testCases.BaseClass - username entered
+[2026-05-12 17:32:44] [main] INFO  testCases.BaseClass - password entered
+[2026-05-12 17:46:56] [main] INFO  testCases.BaseClass - url is opened
+[2026-05-12 17:46:58] [main] INFO  testCases.BaseClass - username entered
+[2026-05-12 17:47:00] [main] INFO  testCases.BaseClass - password entered
+[2026-05-12 17:56:48] [main] INFO  testCases.BaseClass - url is opened
+[2026-05-12 17:56:50] [main] INFO  testCases.BaseClass - username entered
+[2026-05-12 17:56:51] [main] INFO  testCases.BaseClass - password entered
+[2026-05-13 15:20:02] [main] INFO  testCases.BaseClass - url is opened
+[2026-05-13 15:20:02] [main] INFO  testCases.BaseClass - username entered
+[2026-05-13 15:20:02] [main] INFO  testCases.BaseClass - password entered
+[2026-05-13 15:20:03] [main] INFO  testCases.BaseClass - login test passed
+[2026-05-13 15:26:26] [main] INFO  testCases.BaseClass - url is opened
+[2026-05-13 15:26:26] [main] INFO  testCases.BaseClass - username entered
+[2026-05-13 15:26:27] [main] INFO  testCases.BaseClass - password entered
+[2026-05-13 15:26:27] [main] INFO  testCases.BaseClass - login test passed
+[2026-05-13 15:28:17] [main] INFO  testCases.BaseClass - url is opened
+[2026-05-13 15:28:18] [main] INFO  testCases.BaseClass - username entered
+[2026-05-13 15:28:18] [main] INFO  testCases.BaseClass - password entered
+[2026-05-13 15:28:19] [main] INFO  testCases.BaseClass - login test passed
+[2026-05-13 15:29:14] [main] INFO  testCases.BaseClass - url is opened
+[2026-05-13 15:29:15] [main] INFO  testCases.BaseClass - username entered
+[2026-05-13 15:29:16] [main] INFO  testCases.BaseClass - password entered
+[2026-05-13 15:29:17] [main] INFO  testCases.BaseClass - login test passed
+[2026-08-03 16:13:10] [main] INFO  testCases.BaseClass - url is opened
+[2026-08-03 16:13:10] [main] INFO  testCases.BaseClass - username entered
+[2026-08-03 16:13:10] [main] INFO  testCases.BaseClass - password entered
+[2026-08-03 16:13:11] [main] INFO  testCases.BaseClass - login test passed
+[2026-08-03 16:17:01] [main] INFO  testCases.BaseClass - url is opened
+[2026-08-03 16:17:01] [main] INFO  testCases.BaseClass - username entered
+[2026-08-03 16:17:01] [main] INFO  testCases.BaseClass - password entered
+[2026-08-03 16:17:02] [main] INFO  testCases.BaseClass - login test passed
+[2026-08-03 16:48:37] [main] INFO  testCases.BaseClass - url is opened
+[2026-08-03 16:48:38] [main] INFO  testCases.BaseClass - username entered
+[2026-08-03 16:48:38] [main] INFO  testCases.BaseClass - password entered
+[2026-08-03 16:48:38] [main] INFO  testCases.BaseClass - login test passed
+[2026-08-03 16:50:53] [main] INFO  testCases.BaseClass - url is opened
+[2026-08-03 16:50:54] [main] INFO  testCases.BaseClass - username entered
+[2026-08-03 16:50:54] [main] INFO  testCases.BaseClass - password entered
+[2026-08-03 16:50:54] [main] INFO  testCases.BaseClass - login test passed
+[2026-08-03 16:57:50] [main] INFO  testCases.BaseClass - url is opened
+[2026-08-03 16:57:50] [main] INFO  testCases.BaseClass - username entered
+[2026-08-03 16:57:50] [main] INFO  testCases.BaseClass - password entered
+[2026-08-03 16:57:51] [main] INFO  testCases.BaseClass - login test passed

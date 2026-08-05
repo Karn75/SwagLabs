@@ -1,0 +1,5 @@
+testCases\BaseClass.class
+testCases\TC_LoginTest_01.class
+pageObjects\LoginPage.class
+utilities\ReadConfig.class
+utilities\Reporting.class
