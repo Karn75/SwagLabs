@@ -21,6 +21,12 @@ public class LoginPage {
 	@FindBy(id="login-button")
 	WebElement btnLogin;
 	
+	@FindBy(id="react-burger-menu-btn")
+	WebElement btnMenu;
+	
+	@FindBy(id="logout_sidebar_link")
+	WebElement btnLogout;
+	
 	public void setUsername(String username) {
 		txtUsername.sendKeys(username);
 	}
@@ -31,6 +37,12 @@ public class LoginPage {
 	
 	public void clickLogin() {
 		btnLogin.click();
+	}
+	
+	public void clickLogout() throws InterruptedException {
+		btnMenu.click();
+		Thread.sleep(1000);
+		btnLogout.click();
 	}
 	
 

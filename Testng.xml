@@ -11,7 +11,8 @@
   <test thread-count="5" name="Test">
   <parameter name="browser" value="chrome" />
     <classes>
-      <class name="testCases.TC_LoginTest_01"/>
+   <!--  <class name="testCases.TC_LoginTest_01"/> -->
+      <class name="testCases.TC_LoginDDT_02"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

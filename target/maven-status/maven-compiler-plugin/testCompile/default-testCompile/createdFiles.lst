@@ -1,5 +1,7 @@
 testCases\BaseClass.class
-testCases\TC_LoginTest_01.class
 pageObjects\LoginPage.class
-utilities\ReadConfig.class
+utilities\XLUtils.class
 utilities\Reporting.class
+testCases\TC_LoginDDT_02.class
+testCases\TC_LoginTest_01.class
+utilities\ReadConfig.class
